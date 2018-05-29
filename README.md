@@ -21,6 +21,14 @@
  ---
  下载源代码后，在完成驱动转换后，在cmd模式进行make run即可烧录进开发板，即可控制小车，也可以通过make bin将程序烧录进SD卡，控制小车
  
+ ![](https://github.com/lhr0611/embARC-express-automatic-delivery/raw/make.png)
+ 
+ 优酷视频链接
+ ---
+ [优酷]（http://v.youku.com/v_show/id_XMzYyOTk1NzAxNg==.html?spm=a2h3j.8428770.3416059.1）
+ 
+ 
+ 
  
  
  
